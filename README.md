@@ -5,7 +5,7 @@ This is the  first PCB design for the project Smart_Tank
 - An ultrasonic distance sensor
 - A li-ion 18650 battery holder
   # Features
-  This design is suitable for applications whereby Wi-Fi is easily accessible . The Esp32 uses thw Wi-Fi access to transmit the water level recordings to an online
+  This design is suitable for applications whereby Wi-Fi is easily accessible . The Esp32 uses the Wi-Fi access to transmit the water level recordings to an online
   database for planning purposes.
   The users can visually see the water readings in real-time from the results posted in the database from any remote location
   
